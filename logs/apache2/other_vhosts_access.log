@@ -1,0 +1,7 @@
+localhost:80 172.22.0.1 - - [05/Dec/2021:06:53:20 +0000] "GET / HTTP/1.1" 200 871 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"
+localhost:80 172.22.0.1 - - [05/Dec/2021:06:53:20 +0000] "GET /assets/css/bulma.min.css HTTP/1.1" 200 22080 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"
+localhost:80 172.22.0.1 - - [05/Dec/2021:06:54:12 +0000] "-" 408 0 "-" "-"
+localhost:80 172.22.0.1 - - [05/Dec/2021:06:55:03 +0000] "GET / HTTP/1.1" 200 871 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"
+localhost:80 172.22.0.1 - - [05/Dec/2021:06:55:03 +0000] "GET /assets/css/bulma.min.css HTTP/1.1" 200 22080 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"
+localhost:80 172.22.0.1 - - [05/Dec/2021:06:55:12 +0000] "GET / HTTP/1.1" 200 871 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"
+localhost:80 172.22.0.1 - - [05/Dec/2021:06:55:15 +0000] "GET /test_db.php HTTP/1.1" 200 371 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"
