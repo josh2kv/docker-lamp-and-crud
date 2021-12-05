@@ -1,3 +1,7 @@
 AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.5. Set the 'ServerName' directive globally to suppress this message
 [Sun Dec 05 06:52:01.556578 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.10 configured -- resuming normal operations
 [Sun Dec 05 06:52:01.557119 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Dec 05 07:05:26.206518 2021] [php:error] [pid 20] [client 172.22.0.1:55558] script '/var/www/html/view.php' not found or unable to stat, referer: http://localhost/form.html
+[Sun Dec 05 07:10:00.838381 2021] [php:error] [pid 22] [client 172.22.0.1:55568] script '/var/www/html/view.php' not found or unable to stat, referer: http://localhost/form.html
+[Sun Dec 05 07:10:05.283722 2021] [php:error] [pid 22] [client 172.22.0.1:55568] script '/var/www/html/list.php' not found or unable to stat, referer: http://localhost/form.html
+[Sun Dec 05 07:10:20.202433 2021] [php:error] [pid 23] [client 172.22.0.1:55572] script '/var/www/html/view.php' not found or unable to stat, referer: http://localhost/form.html

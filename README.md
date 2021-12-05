@@ -7,8 +7,6 @@
 -   docker-compose라는 단 하나의 명령어로 한번에 Apache, MySQL, PHP, phpMyAdmin, Redis 개발환경을 구축
 -   정상 작동하는지 확인하기 위해 PHP를 처음 공부할 때 작성해보았던 CRUD 연습코드를 넣어 봄
 
----
-
 > 학습자료
 >
 > -   [LAMP stack built with Docker Compose][1]
