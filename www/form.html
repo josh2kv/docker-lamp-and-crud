@@ -1,0 +1,30 @@
+<!-- @format -->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+    </head>
+    <body>
+        <hr />
+        등록화면
+        <hr />
+        [<a href="index.php">돌아가기</a>]
+        <section class="form-container">
+            <h1>등록화면</h1>
+            <form name="form-insert" method="post" action="index.php">
+                <label>LAST NAME</label>
+                <input type="text" name="last_name" />
+                <label>FIRST NAME</label>
+                <input type="text" name="first_name" />
+                <label>AGE</label>
+                <input type="text" name="age" />
+                <input class="btn" type="submit" value="송신" />
+                <input type="hidden" name="action" value="insert" />
+            </form>
+        </section>
+    </body>
+</html>
